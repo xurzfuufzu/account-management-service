@@ -1,0 +1,38 @@
+# Go binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go build artifacts
+bin/
+build/
+
+# Dependency directories
+vendor/
+
+# IDE and editor files
+.idea/
+*.iml
+*.suo
+*.ntvs_analysis.dat
+*.ncb
+*.swp
+*.swo
+*.vscode/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Personal config files
+*.env
+
+# YAML files
+*.yaml
+*.yml
